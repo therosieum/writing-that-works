@@ -1,0 +1,13 @@
+{
+  "name": "writing-that-works",
+  "owner": {
+    "name": "rosie"
+  },
+  "plugins": [
+    {
+      "name": "writing-that-works",
+      "source": "./",
+      "description": "Draft and edit business prose that gets results — emails, memos, letters, decks, plans, reports, recommendations, proposals, sales/fund-raising letters, resumes, cover letters, and speeches. Distilled from Roman & Raphaelson's Writing That Works."
+    }
+  ]
+}
